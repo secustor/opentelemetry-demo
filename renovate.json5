@@ -4,8 +4,9 @@
   "schedule": "every weekend",
 
   // double PR and branch limits
-  prConcurrentLimit: 20,
-  branchConcurrentLimit: 20,
+  prConcurrentLimit: 0,
+  branchConcurrentLimit: 0,
+  labels: ['dependencies'],
 
   // put by default dependency update all in one group
   groupName: "config-no-service",
