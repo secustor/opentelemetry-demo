@@ -12,7 +12,7 @@
 
   "packageRules": [
     {
-      "matchPaths": ["src/"],
+      "matchFileNames": ["src/**"],
       "groupName": "{{parentDir}}",
       "assigneesFromCodeOwners": true
     },
