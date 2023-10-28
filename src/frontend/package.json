@@ -31,7 +31,7 @@
     "@opentelemetry/sdk-trace-base": "1.15.2",
     "@opentelemetry/sdk-trace-node": "1.15.2",
     "@opentelemetry/sdk-trace-web": "1.15.2",
-    "@tanstack/react-query": "4.32.6",
+    "@tanstack/react-query": "4.36.1",
     "cookies-next": "2.1.2",
     "currency-symbol-map": "5.1.0",
     "dotenv": "16.3.1",
